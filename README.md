@@ -28,7 +28,7 @@ This dashboard enables retail managers to:
 
 
 ## 📁 File
-- `Retail_Strategy_Dashboard_ShrutiDubal.xlsx` — the complete working file
+- `Retail_Strategy_Dashboard_Athharv.xlsx` — the complete working file
 
 ---
 
